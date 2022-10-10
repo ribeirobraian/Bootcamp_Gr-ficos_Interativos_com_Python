@@ -1,4 +1,4 @@
-# Bootcamp_Gr-ficos_Interativos_com_Python
+# Bootcamp_Graficos_Interativos_com_Python
 -Nessa demonstração, vamos desenvolver uma aplicação online com dados da Covid-19 apenas utilizando Python com bibliotecas open-source e plataformas gratuitas. Você será capaz de compartilhar a página com seus amigos e adicionar ao seu portfólio de dados.
 
 
